@@ -223,4 +223,4 @@ LightShot is offered as a full free version with all features and updates includ
 Ready to enhance your screenshot experience? **Download LightShot for free today and unlock your productivity!**
 
 ---
-**Last updated:** 2026-10-18 14:22:12 UTC
+**Last updated:** 2026-10-18 17:54:35 UTC
